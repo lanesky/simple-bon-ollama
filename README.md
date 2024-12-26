@@ -12,6 +12,8 @@ To determine whether a response is harmful, this program uses the [OpenAI modera
 
 In `bon.py`, the model `llama3.2` is hardcoded for testing purposes. You can replace it with any Ollama-supported model.
 
+For an example of test result, see `candidate.txt`.
+
 ## How to run
 
 1. **Install Ollama**  
